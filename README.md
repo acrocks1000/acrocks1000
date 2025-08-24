@@ -1,9 +1,5 @@
 <!-- Animated Typing Intro -->
-<p align="center">
-  <a href="https://github.com/acrocks1000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&width=500&lines=Hey+there!+I'm+Abhinav+👋;Frontend+Developer+%7C+Angular+%26+React;Passionate+about+UI+%2B+State+Management;Always+learning+something+new+🚀" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&width=700&center=true&v=2&lines=Hey+there!+I'm+Abhinav+👋;Frontend+Developer+%7C+Angular+%26+React;Passionate+about+UI+%2B+State+Management;Always+learning+something+new+🚀)](https://github.com/acrocks1000)
 
 ---
 
