@@ -77,7 +77,7 @@ I’m a **creative problem solver**, a team player who can deliver solo, but kno
 
 ### 📬 Let’s Connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhinav-chaudhary-frontend" target="_blank">
+  <a href="https://www.linkedin.com/in/acrocks1000/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:acrocks1000@gmail.com">
